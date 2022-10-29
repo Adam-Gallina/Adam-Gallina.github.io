@@ -1,1 +1,0 @@
-# Adam-Gallina.github.io
