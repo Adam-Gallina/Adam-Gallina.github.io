@@ -25,8 +25,8 @@
 
     padding: 0px 20px 10px 20px;
     margin: 5px;
-    width: 28%;
-    height: 600px;
+    width: 25%;
+    /*height: 600px;*/
 }
 
 .project-box h2 {
@@ -34,4 +34,20 @@
 }
 .project-box img {
     width: 100%;
+}
+
+@media (min-width: 1200px) {
+    .project-box {
+        width: 28%;
+    }
+}
+
+@media (max-width: 800px) {
+    #projects {
+        display: block;
+    }
+
+    .project-box {
+        width: 80%;
+    }
 }
