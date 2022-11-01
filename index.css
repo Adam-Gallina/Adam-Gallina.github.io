@@ -11,6 +11,8 @@ body {
 #headshot {
     width: 250px;
     float: right;
+    border: 2px solid black;
+    margin-left: 15px;
 }
 
 .border {
@@ -71,8 +73,7 @@ body {
     }
 
     #headshot {
-        width: 40%;
-        float: none;
+        width: 35%;
     }
 
     #projects {
