@@ -2,10 +2,15 @@ body {
     background-color: #9CAF88;
 }
 
-.title {
+#title {
     text-align: center;
     font-size: 100px;
     margin: 0px;
+}
+
+#headshot {
+    width: 250px;
+    float: right;
 }
 
 .border {
