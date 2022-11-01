@@ -1,7 +1,7 @@
 .title {
     text-align: center;
     font-size: 100px;
-    margin-bottom: 0px;
+    margin: 0px;
 }
 
 .border {
@@ -43,6 +43,10 @@
 }
 
 @media (max-width: 800px) {
+    .title {
+        font-size: 65px;
+    }
+
     #projects {
         display: block;
     }
