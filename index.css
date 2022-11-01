@@ -1,0 +1,37 @@
+.title {
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+.border {
+    border: 3px solid black;
+    border-radius: 10px;
+
+    padding: 0px 20px 10px 20px;
+    margin: 20px;
+}
+
+#projects {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.project-box {
+    border: 3px solid black;
+    border-radius: 10px;
+
+    padding: 0px 20px 10px 20px;
+    margin: 5px;
+    width: 28%;
+    height: 600px;
+}
+
+.project-box h2 {
+    text-align: center;
+}
+.project-box img {
+    width: 100%;
+}
