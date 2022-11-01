@@ -33,15 +33,17 @@ body {
     /*height: 600px;*/
 }
 
+.white {
+    background-color: rgb(209, 209, 209);
+}
 .orange {
     background-color: #e69f61;
 }
-
 .yellow {
     background-color: #f2dda2;
 }
 .green {
-    background-color: #B1BC55;
+    background-color: #6cb863;
 }
 
 .project-box h2 {
