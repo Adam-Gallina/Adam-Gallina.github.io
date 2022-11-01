@@ -1,3 +1,7 @@
+body {
+    background-color: #9CAF88;
+}
+
 .title {
     text-align: center;
     font-size: 100px;
@@ -29,11 +33,23 @@
     /*height: 600px;*/
 }
 
+.orange {
+    background-color: #e69f61;
+}
+
+.yellow {
+    background-color: #f2dda2;
+}
+.green {
+    background-color: #B1BC55;
+}
+
 .project-box h2 {
     text-align: center;
 }
 .project-box img {
     width: 100%;
+    border: 3px solid black;
 }
 
 @media (min-width: 1200px) {
