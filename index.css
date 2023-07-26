@@ -40,6 +40,10 @@ body {
     /*height: 600px;*/
 }
 
+.created-date {
+    display: none;
+}
+
 .white {
     background-color: rgb(209, 209, 209);
 }
